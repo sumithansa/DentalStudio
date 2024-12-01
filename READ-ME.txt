@@ -1,11 +1,11 @@
   =>  Template Name    : Dental Studio - Dental Clinic Website Template
 
-  =>  Template Link    : https://htmlcodex.com/dental-clinic-website-template
+  =>  Template Link    : https://sumithansa.in//dental-clinic-website-template
 
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+  =>  Template License : https://sumithansa.in//license (or read the LICENSE.txt file)
 
-  =>  Template Author  : HTML Codex
+  =>  Template Author  : Saumit Kumar
 
-  =>  Author Website   : https://htmlcodex.com
+  =>  Author Website   : https://sumithansa.in/
 
-  =>  About HTML Codex : HTML Codex is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://htmlcodex.com/about-us )
+  =>  About Saumit Kumar : Saumit Kumar is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://sumithansa.in//about-us )
